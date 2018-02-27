@@ -21,39 +21,39 @@ msgstr ""
 
 msgid "year"
 msgid_plural "years"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "ano"
+msgstr[1] "anos"
 
 msgid "month"
 msgid_plural "months"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "mês"
+msgstr[1] "meses"
 
 #, fuzzy
 msgid "day"
 msgid_plural "days"
-msgstr[0] "Hoje"
-msgstr[1] ""
+msgstr[0] "dia"
+msgstr[1] "dias"
 
 msgid "hour"
 msgid_plural "hours"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "hora"
+msgstr[1] "horas"
 
 #, fuzzy
 msgid "minute"
 msgid_plural "minutes"
-msgstr[0] "em minutos"
-msgstr[1] ""
+msgstr[0] "minuto"
+msgstr[1] "minutos"
 
 msgid "registered users spend on completing pomodoros today."
-msgstr ""
+msgstr "Usuários registrados completando pomodoros hoje."
 
 msgid "registered users spend on completing pomodoros"
-msgstr ""
+msgstr "Usuários registrados completando pomodoros"
 
 msgid "for all time"
-msgstr ""
+msgstr "por todo o tempo"
 
 msgid "LOADING"
 msgstr "CARREGANDO"
@@ -89,31 +89,31 @@ msgid "Disconnect"
 msgstr "Desligar"
 
 msgid "Integration with Google"
-msgstr ""
+msgstr "Integrarar com o Google"
 
 msgid "Login to the service using Google authentication."
-msgstr ""
+msgstr "Faça login utilizando a autenticação do Google"
 
 msgid "Integration with Facebook"
-msgstr ""
+msgstr "Integrar com o Facebook"
 
 msgid "Login to the service using Facebook authentication."
-msgstr ""
+msgstr "Faça login utilizando a autenticação do Facebook"
 
 msgid "Integration with Github"
-msgstr ""
+msgstr "Integrar com o Github"
 
 msgid "Login to the service using Github authentication."
-msgstr ""
+msgstr "Faça login utilizando a autenticação do Github"
 
 msgid "Enable Telegram Bot"
-msgstr ""
+msgstr "Habilitar um bot para o Telegram"
 
 msgid "Get notifications, check history"
-msgstr ""
+msgstr "Habilitar notificações, verificar Histórico"
 
 msgid "Connect Telegram Bot"
-msgstr ""
+msgstr "Conecte ao bot do Telegram"
 
 msgid "Add"
 msgstr "Adicionar"
@@ -121,7 +121,7 @@ msgstr "Adicionar"
 msgid ""
 "to your telegram, type `/start` and enter a code from the bot to field "
 "bellow"
-msgstr ""
+msgstr "Para seu telegram digite '/start' e informe ocódigo no campo"
 
 msgid "Code"
 msgstr "Código"
@@ -142,7 +142,7 @@ msgid "dark"
 msgstr "escuro"
 
 msgid "auto"
-msgstr ""
+msgstr "Automático"
 
 msgid "Date format"
 msgstr "Formato da data:"
@@ -333,9 +333,7 @@ msgid "The list is empty"
 msgstr "A lista está vazia"
 
 msgid "Try to mark TODO as activity or use the form above"
-msgstr ""
-"Experimente marcar uma atividade como: PARA FAZER, ou use o formulário "
-"abaixo"
+msgstr "Experimente marcar uma atividade como: PARA FAZER, ou use o formulário abaixo"
 
 msgid "Preferences"
 msgstr "Preferência"
@@ -524,10 +522,10 @@ msgid "Last Quarter"
 msgstr "Ultimo quarto"
 
 msgid "Last 90 days"
-msgstr ""
+msgstr "Ultimos 90 dias"
 
 msgid "Last 180 days"
-msgstr ""
+msgstr "Ultimos 180 dias"
 
 msgid "%1$s records were imported"
 msgstr "Foram registrados %1$s registros"
@@ -554,7 +552,7 @@ msgid "average"
 msgstr "média"
 
 msgid "median"
-msgstr ""
+msgstr "mediana"
 
 msgid "Pomodoros"
 msgstr "Pomodoros"
@@ -587,16 +585,16 @@ msgstr "Média por dia"
 #~ msgstr "média"
 
 #~ msgid "percentile75"
-#~ msgstr ""
+#~ msgstr "75%"
 
 #~ msgid "Febrary"
-#~ msgstr ""
+#~ msgstr "Fevereiro"
 
 #~ msgid "Last 30 days"
 #~ msgstr "Nos últimos 30 dias"
 
 #~ msgid "quantile"
-#~ msgstr ""
+#~ msgstr "fração"
 
 #~ msgid "Import/Export"
 #~ msgstr "Importar e Exportar"
@@ -620,7 +618,7 @@ msgstr "Média por dia"
 #~ msgstr ""
 
 #~ msgid "Code:"
-#~ msgstr ""
+#~ msgstr "Código"
 
 #~ msgid "Add to favorites"
 #~ msgstr "Adicionar aos favoritos"
@@ -632,47 +630,47 @@ msgstr "Média por dia"
 #~ msgstr "Clique duplo para editar os itens."
 
 #~ msgid "Sort by:"
-#~ msgstr ""
+#~ msgstr "Ordenar por:"
 
 #~ msgid "Send Daily Reports on"
-#~ msgstr ""
+#~ msgstr "Enviar report diario On"
 
 #~ msgid "Joined at"
 #~ msgstr "Ingressou em:"
 
 #~ msgid "year"
 #~ msgid_plural "years"
-#~ msgstr[0] ""
-#~ msgstr[1] ""
+#~ msgstr[0] "ano"
+#~ msgstr[1] "anos"
 
 #~ msgid "month"
 #~ msgid_plural "months"
-#~ msgstr[0] ""
-#~ msgstr[1] ""
+#~ msgstr[0] "mês"
+#~ msgstr[1] "meses"
 
 #~ msgid "day"
 #~ msgid_plural "days"
-#~ msgstr[0] ""
-#~ msgstr[1] ""
+#~ msgstr[0] "dia"
+#~ msgstr[1] "dias"
 
 #~ msgid "hour"
 #~ msgid_plural "hours"
-#~ msgstr[0] ""
-#~ msgstr[1] ""
+#~ msgstr[0] "hora"
+#~ msgstr[1] "horas"
 
 #~ msgid "minute"
 #~ msgid_plural "minutes"
-#~ msgstr[0] ""
-#~ msgstr[1] ""
+#~ msgstr[0] "minuto"
+#~ msgstr[1] "minutos"
 
 #~ msgid "registered users spend on completing pomodoros today."
-#~ msgstr ""
+#~ msgstr "Usuários registrados completando pomodoros hoje"
 
 #~ msgid "registered users spend on completing pomodoros"
-#~ msgstr ""
+#~ msgstr "Usuários registrados completando pomodoros"
 
 #~ msgid "for all time"
-#~ msgstr ""
+#~ msgstr "de todo o tempo"
 
 #~ msgid "Import CSV"
 #~ msgstr "Importar CSV"
@@ -681,13 +679,13 @@ msgstr "Média por dia"
 #~ msgstr "Remover"
 
 #~ msgid "all records"
-#~ msgstr ""
+#~ msgstr "Todos os registros"
 
 #~ msgid "Congratulations! You"
-#~ msgstr ""
+#~ msgstr "Parabéns para vocÊ"
 
 #~ msgid "#{response.data.created} records were imported"
-#~ msgstr ""
+#~ msgstr "#{response.data.created} os dados foram importados"
 
 #~ msgid "Copy"
 #~ msgstr "Cópia"
