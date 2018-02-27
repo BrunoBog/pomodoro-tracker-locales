@@ -111,7 +111,7 @@ msgid "Bolster the determination to achieve your goals"
 msgstr "Impulso ainda maior em sua determinação em alcançar seus objetivos"
 
 msgid "Refine the estimation process, both in qualitative and quantitative terms "
-msgstr ""
+msgstr 
 "Aperfeiçoamento sua capacidade de estimar, tanto em qualidade quanto em "
 "quantidade"
 
@@ -177,7 +177,7 @@ msgstr "Entre no serviço para acompanhar seu progresso"
 msgid ""
 "The Pomodoro Technique shouldn’t be used for activities you do in your "
 "free time. Enjoy free time!"
-msgstr ""
+msgstr
 "A técnica do Pomodoro não deve ser usada para as atividades que vocêfaz "
 "em seu tempo livre. Aproveite seu tempo livre!"
 
@@ -255,10 +255,10 @@ msgstr "Por favor não me mande estes incríveis relatórios diários"
 #~ msgstr "Funcionalidades que estão por vir"
 
 #~ msgid "%s here's your Daily report for"
-#~ msgstr ""
+#~ msgstr "%s aqui está o resumo diário para"
 
 #~ msgid "here's your daily report for"
-#~ msgstr ""
+#~ msgstr "Aqui está seu resumo diário"
 
 #~ msgid "June"
 #~ msgstr "Junho"
